@@ -24,3 +24,6 @@ def timer(work_time, short_break_time, long_break_time, intervals_before_long_br
 - [ ] Login (user, password, authentication)
 - [ ] Logging total study time, total break time for each user
 - [ ] TBD (analytics, leaderboards, simple reward system)
+
+### Attribution:
+- [Countdown Timer using Vue.js by fareez-ahamed](https://github.com/fareez-ahamed/countdown-vuejs)
