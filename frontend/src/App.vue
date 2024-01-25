@@ -1,11 +1,11 @@
 <template>
   <div id="app">
-      <Countdown date="August 15, 2016"></Countdown>
+      <Countdown :date="170615000000"></Countdown>
   </div>
 </template>
 
 <script>
-import Countdown from './components/Countdown.vue';
+import Countdown from './components/count-down.vue';
 
 export default {
     components: { Countdown },
